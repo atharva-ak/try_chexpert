@@ -1,0 +1,16 @@
+No_Finding : 0.535714 
+Enlarged_Cardiomediastinum : 0.392857 
+Cardiomegaly : 0.142857 
+Lung_Opacity : 0.527273 
+Lung_Lesion : 0.000000 
+Edema : 0.545455 
+Consolidation : 0.333333 
+Pneumonia : 0.285714 
+Atelectasis : 0.933333 
+Pneumothorax : 0.266667 
+Pleural_Effusion : 0.800000 
+Pleural_Other : 0.000000 
+Fracture : 0.133333 
+Support_Devices : 0.444444 
+-------------------------
+mean auroc: 0.445082

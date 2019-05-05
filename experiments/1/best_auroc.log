@@ -1,0 +1,1 @@
+(epoch#{epoch + 1}) auroc: {mean_auroc}, lr: {self.stats['lr']}
